@@ -2,7 +2,7 @@
  * Created by Саня on 26.04.2017.
  */
 public abstract class ArmoredVehicles extends Machine {
-    private int passengers;
+
     private int movements;
     private int mass;
 
